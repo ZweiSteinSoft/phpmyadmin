@@ -1254,10 +1254,6 @@ img.sortableIcon {
     white-space: nowrap;
 }
 
-.jsfeature {
-    display: none; /* Made visible with js */
-}
-
 /* Also used for the variables page */
 fieldset#tableFilter {
     margin-bottom: 1em;
